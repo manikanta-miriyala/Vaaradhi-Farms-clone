@@ -12,7 +12,7 @@ A responsive and modern e-commerce landing page showcasing natural and organic p
 - Scrollable collections and testimonials section
 - FAQ section and footer with contact info
 
-## 🚀 Demo  http://127.0.0.1:5500/ 
+## 🚀 Demo  https://natural-organics-farm.netlify.app/
 
 To view the project, simply open the `index.html` file in your browser.
 
